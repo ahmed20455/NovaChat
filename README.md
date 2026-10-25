@@ -3,6 +3,7 @@
 A clean, modern AI chat interface built with React, TypeScript, and FastAPI.
 
 I built this as a portfolio project to practice creating polished frontend experiences with real streaming responses. It focuses on good UX, performance, and clean code rather than trying to be another ChatGPT clone.
+## [App Link](https://nova-chat-eight-sigma.vercel.app/)
 
 ## Features
 
