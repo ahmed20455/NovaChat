@@ -3,7 +3,7 @@ import { SendHorizontal, Square} from "lucide-react"
 import { useChatStore } from "../store/chatStore"
 import { cn } from "../lib/utils"
 
-const BACKEND_URL = "http://localhost:8000/chat"
+const BACKEND_URL = "https://novachat-rhld.onrender.com/chat"
 
 const MODELS = [
   { id: "openai/gpt-oss-20b", name: "GPT-OSS 20B" },
